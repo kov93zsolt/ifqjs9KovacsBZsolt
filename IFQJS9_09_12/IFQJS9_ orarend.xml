@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<Neptunkod_orarend>
+    <ora id="1" tipus="konzultacio">
+        <kurzusnev>Webes adatkezelő környezetek</kurzusnev>
+        <idopont>
+            <nap>Szombat</nap>
+            <tol>12:20</tol>
+            <ig>15:30</ig>
+        </idopont>
+        <helyszin>Online</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+</Neptunkod_orarend>
