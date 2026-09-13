@@ -2,15 +2,356 @@
 
 
 <Neptunkod_orarend>
-    <ora id="1" tipus="konzultacio">
+    <ora id="1" típus="konzultáció">
+        <kurzusnev>Windows rendszergazda</kurzusnev>
+        <idopont>
+            <nap>2026-09-11, péntek</nap>
+            <tol>16:00</tol>
+            <ig>19:20</ig>
+        </idopont>
+        <helyszin>In/103</helyszin>
+        <oktato>Dr. Wagner György</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="2" típus="konzultáció">
+        <kurzusnev>Mesterséges intelligencia alapok</kurzusnev>
+        <idopont>
+            <nap>2026-08-13, szombat</nap>
+            <tol>08:30</tol>
+            <ig>11:50</ig>
+        </idopont>
+        <helyszin>OnLine!</helyszin>
+        <oktato>Kunné Dr. Tamás Judit</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="3" típus="konzultáció">
         <kurzusnev>Webes adatkezelő környezetek</kurzusnev>
         <idopont>
-            <nap>Szombat</nap>
+            <nap>2026-08-27, szombat</nap>
             <tol>12:20</tol>
-            <ig>15:30</ig>
+            <ig>15:40</ig>
         </idopont>
-        <helyszin>Online</helyszin>
+        <helyszin>OnLine!</helyszin>
         <oktato>Dr. Bednarik László</oktato>
-        <szak>Mérnökinformatikus</szak>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="4" típus="konzultáció">
+        <kurzusnev>Elektrotechnika-elektronika</kurzusnev>
+        <idopont>
+            <nap>2026-09-18, péntek</nap>
+            <tol>16:00</tol>
+            <ig>19:20</ig>
+        </idopont>
+        <helyszin>X</helyszin>
+        <oktato>Szabó Norbert</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="5" típus="konzultáció">
+        <kurzusnev>UNIX rendszergazda</kurzusnev>
+        <idopont>
+            <nap>2026-09-18, péntek</nap>
+            <tol>08:30</tol>
+            <ig>11:50</ig>
+        </idopont>
+        <helyszin>A1/307</helyszin>
+        <oktato>Dr. Mileff Péter</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="6" típus="konzultáció">
+        <kurzusnev>Elektrotechnika-elektronika</kurzusnev>
+        <idopont>
+            <nap>2026-09-25, péntek</nap>
+            <tol>16:00</tol>
+            <ig>19:20</ig>
+        </idopont>
+        <helyszin>X</helyszin>
+        <oktato>Szabó Norbert</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="7" típus="konzultáció">
+        <kurzusnev>Mesterséges intelligencia alapok</kurzusnev>
+        <idopont>
+            <nap>2026-09-25, szombat</nap>
+            <tol>08:30</tol>
+            <ig>11:50</ig>
+        </idopont>
+        <helyszin>OnLine!</helyszin>
+        <oktato>Kunné Dr. Tamás Judit</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="8" típus="konzultáció">
+        <kurzusnev>Windows rendszergazda</kurzusnev>
+        <idopont>
+            <nap>2026-10-02, péntek</nap>
+            <tol>16:00</tol>
+            <ig>19:20</ig>
+        </idopont>
+        <helyszin>In/103</helyszin>
+        <oktato>Dr. Wagner György</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="9" típus="konzultáció">
+        <kurzusnev>Műszaki szaknyelv</kurzusnev>
+        <idopont>
+            <nap>2026-10-09, péntek</nap>
+            <tol>14:10</tol>
+            <ig>18:20</ig>
+        </idopont>
+        <helyszin>A1/309</helyszin>
+        <oktato>Nyelvtől függően</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="10" típus="konzultáció">
+        <kurzusnev>UNIX rendszergazda</kurzusnev>
+        <idopont>
+            <nap>2026-10-09, szombat</nap>
+            <tol>08:30</tol>
+            <ig>11:50</ig>
+        </idopont>
+        <helyszin>A1/319</helyszin>
+        <oktato>Dr. Mileff Péter</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="11" típus="konzultáció">
+        <kurzusnev>Webes adatkezelő környezetek</kurzusnev>
+        <idopont>
+            <nap>2026-10-16, péntek</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>OnLine!</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="12" típus="konzultáció">
+        <kurzusnev>Mesterséges intelligencia alapok</kurzusnev>
+        <idopont>
+            <nap>2026-10-16, szombat</nap>
+            <tol>08:30</tol>
+            <ig>11:50</ig>
+        </idopont>
+        <helyszin>XXXIII</helyszin>
+        <oktato>Fazekas Levente</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="13" típus="konzultáció">
+        <kurzusnev>Windows rendszergazda</kurzusnev>
+        <idopont>
+            <nap>2026-10-16, szombat</nap>
+            <tol>12:20</tol>
+            <ig>15:40</ig>
+        </idopont>
+        <helyszin>In/101</helyszin>
+        <oktato>Dr. Wagner György</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="14" típus="konzultáció">
+        <kurzusnev>Elektrotechnika-elektronika</kurzusnev>
+        <idopont>
+            <nap>2026-10-24, szombat</nap>
+            <tol>12:20</tol>
+            <ig>15:40</ig>
+        </idopont>
+        <helyszin>X</helyszin>
+        <oktato>Szabó Norbert</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="15" típus="konzultáció">
+        <kurzusnev>Webes adatkezelő környezetek</kurzusnev>
+        <idopont>
+            <nap>2026-11-06, péntek</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>OnLine!</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="16" típus="konzultáció">
+        <kurzusnev>UNIX rendszergazda</kurzusnev>
+        <idopont>
+            <nap>2026-11-06, szombat</nap>
+            <tol>08:30</tol>
+            <ig>11:50</ig>
+        </idopont>
+        <helyszin>A1/204</helyszin>
+        <oktato>Dr. Mileff Péter</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="17" típus="konzultáció">
+        <kurzusnev>Windows rendszergazda</kurzusnev>
+        <idopont>
+            <nap>2026-11-06, szombat</nap>
+            <tol>12:20</tol>
+            <ig>15:40</ig>
+        </idopont>
+        <helyszin>In/101</helyszin>
+        <oktato>Dr. Wagner György</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="18" típus="konzultáció">
+        <kurzusnev>Műszaki szaknyelv</kurzusnev>
+        <idopont>
+            <nap>2026-11-13, péntek</nap>
+            <tol>14:10</tol>
+            <ig>18:20</ig>
+        </idopont>
+        <helyszin>A1/307</helyszin>
+        <oktato>Nyelvtől függően</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="19" típus="konzultáció">
+        <kurzusnev>Mesterséges intelligencia alapok</kurzusnev>
+        <idopont>
+            <nap>2026-11-21, szombat</nap>
+            <tol>08:30</tol>
+            <ig>11:50</ig>
+        </idopont>
+        <helyszin>XXXIII</helyszin>
+        <oktato>Fazekas Levente</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="20" típus="konzultáció">
+        <kurzusnev>Elektrotechnika-elektronika</kurzusnev>
+        <idopont>
+            <nap>2026-11-28, szombat</nap>
+            <tol>08:30</tol>
+            <ig>11:50</ig>
+        </idopont>
+        <helyszin>X</helyszin>
+        <oktato>Szabó Norbert</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="21" típus="konzultáció">
+        <kurzusnev>UNIX rendszergazda</kurzusnev>
+        <idopont>
+            <nap>2026-11-28, szombat</nap>
+            <tol>12:20</tol>
+            <ig>15:40</ig>
+        </idopont>
+        <helyszin>A1/201</helyszin>
+        <oktato>Dr. Mileff Péter</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="22" típus="konzultáció">
+        <kurzusnev>Webes adatkezelő környezetek</kurzusnev>
+        <idopont>
+            <nap>2026-12-04, péntek</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>OnLine!</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="23" típus="konzultáció">
+        <kurzusnev>Multimédia rendszerek</kurzusnev>
+        <idopont>
+            <nap>2026-09-11, péntek</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>In/200</helyszin>
+        <oktato>Dr. Varga Attila Károly</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="24" típus="konzultáció">
+        <kurzusnev>Multimédia rendszerek</kurzusnev>
+        <idopont>
+            <nap>2026-09-19, szombat</nap>
+            <tol>12:20</tol>
+            <ig>15:40</ig>
+        </idopont>
+        <helyszin>In/200</helyszin>
+        <oktato>Dr. Varga Attila Károly</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="25" típus="konzultáció">
+        <kurzusnev>Irányítástechnika</kurzusnev>
+        <idopont>
+            <nap>2026-10-03, szombat</nap>
+            <tol>08:30</tol>
+            <ig>11:50</ig>
+        </idopont>
+        <helyszin>In/214</helyszin>
+        <oktato>Simon Róbert</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="26" típus="konzultáció">
+        <kurzusnev>Irányítástechnika</kurzusnev>
+        <idopont>
+            <nap>2026-10-10, szombat</nap>
+            <tol>12:20</tol>
+            <ig>15:40</ig>
+        </idopont>
+        <helyszin>In/200</helyszin>
+        <oktato>Simon Róbert</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="27" típus="konzultáció">
+        <kurzusnev>Irányítástechnika</kurzusnev>
+        <idopont>
+            <nap>2026-10-24, szombat</nap>
+            <tol>08:30</tol>
+            <ig>11:50</ig>
+        </idopont>
+        <helyszin>In/1</helyszin>
+        <oktato>Koics Dániel</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="28" típus="konzultáció">
+        <kurzusnev>Mobil programozási alapok</kurzusnev>
+        <idopont>
+            <nap>2026-10-31, szombat</nap>
+            <tol>08:30</tol>
+            <ig>15:10</ig>
+        </idopont>
+        <helyszin>A1/307</helyszin>
+        <oktato>Agárdi Anita</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="29" típus="konzultáció">
+        <kurzusnev>Mobil programozási alapok</kurzusnev>
+        <idopont>
+            <nap>2026-11-14, szombat</nap>
+            <tol>08:30</tol>
+            <ig>15:10</ig>
+        </idopont>
+        <helyszin>A1/202</helyszin>
+        <oktato>Agárdi Anita</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="30" típus="konzultáció">
+        <kurzusnev>Multimédia rendszerek</kurzusnev>
+        <idopont>
+            <nap>2026-11-20, péntek</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>In/200</helyszin>
+        <oktato>Dr. Varga Attila Károly</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="31" típus="konzultáció">
+        <kurzusnev>Irányítástechnika</kurzusnev>
+        <idopont>
+            <nap>2026-11-20, szombat</nap>
+            <tol>12:20</tol>
+            <ig>15:40</ig>
+        </idopont>
+        <helyszin>In/1</helyszin>
+        <oktato>Koics Dániel</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
+    </ora>
+    <ora id="32" típus="konzultáció">
+        <kurzusnev>Multimédia rendszerek</kurzusnev>
+        <idopont>
+            <nap>2026-11-27, péntek</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>In/200</helyszin>
+        <oktato>Dr. Varga Attila Károly</oktato>
+        <szak>III. évf. Mérnök informatikus (BSc) alapszak (BIL), 5BIL</szak>
     </ora>
 </Neptunkod_orarend>
