@@ -1,0 +1,250 @@
+<mxfile host="Electron">
+  <diagram name="Oldal-1" id="ylHzwRVphvFKLJdTAUrf">
+    <mxGraphModel dx="860" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vendeglatas" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1" value="Vendeglatas&#xa;(gyökérelem)" vertex="1">
+          <mxGeometry height="70" width="250" x="660" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="etteremek" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" value="Ettermek&#xa;(ismétlődő tárolóelem)" vertex="1">
+          <mxGeometry height="70" width="250" x="660" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="etterem" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;fontStyle=1" value="Etterem&#xa;1..n alkalommal" vertex="1">
+          <mxGeometry height="75" width="250" x="660" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="etteremNev" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" value="nev" vertex="1">
+          <mxGeometry height="50" width="120" x="50" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="varos" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" value="varos" vertex="1">
+          <mxGeometry height="50" width="120" x="190" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="utca" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" value="utca" vertex="1">
+          <mxGeometry height="50" width="120" x="330" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="hazszam" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" value="hazszam" vertex="1">
+          <mxGeometry height="50" width="120" x="470" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="cim" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" value="cim" vertex="1">
+          <mxGeometry height="50" width="120" x="610" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ferohely" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" value="ferohely" vertex="1">
+          <mxGeometry height="50" width="120" x="750" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="csillag" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" value="csillag" vertex="1">
+          <mxGeometry height="50" width="120" x="890" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="sef" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" value="sef" vertex="1">
+          <mxGeometry height="50" width="120" x="1030" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="etlap" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" value="etlap" vertex="1">
+          <mxGeometry height="50" width="120" x="1170" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="konyhak" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" value="Konyhak" vertex="1">
+          <mxGeometry height="60" width="190" x="30" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="konyha" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" value="Konyha&#xa;1..n alkalommal" vertex="1">
+          <mxGeometry height="70" width="190" x="30" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="konyhaKod" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="kod" vertex="1">
+          <mxGeometry height="45" width="100" x="10" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="konyhaNev" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="nev" vertex="1">
+          <mxGeometry height="45" width="100" x="125" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="elerhetoseg" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="elektronikus&#xa;elerhetoseg" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="konyhaTelefon" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="telefonszam" vertex="1">
+          <mxGeometry height="45" width="120" x="375" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="szakacsok" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" value="Szakacsok" vertex="1">
+          <mxGeometry height="60" width="190" x="570" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="szakacs" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" value="Szakacs&#xa;1..n alkalommal" vertex="1">
+          <mxGeometry height="70" width="190" x="570" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="szakacsAzon" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="szakacsazonosito" vertex="1">
+          <mxGeometry height="45" width="135" x="500" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="szakacsNev" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="nev" vertex="1">
+          <mxGeometry height="45" width="100" x="650" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="fizetes" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="fizetes" vertex="1">
+          <mxGeometry height="45" width="110" x="765" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="gyakornokok" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" value="Gyakornokok" vertex="1">
+          <mxGeometry height="60" width="190" x="570" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="gyakornok" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" value="Gyakornok&#xa;0..n alkalommal" vertex="1">
+          <mxGeometry height="70" width="190" x="570" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="gyakornokAzon" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="gyakornokazonosito" vertex="1">
+          <mxGeometry height="45" width="150" x="300" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="gyakornokNev" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="nev" vertex="1">
+          <mxGeometry height="45" width="100" x="465" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="gyakorlat" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="gyakorlat" vertex="1">
+          <mxGeometry height="45" width="110" x="580" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="iskola" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="iskola" vertex="1">
+          <mxGeometry height="45" width="100" x="705" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="szuletes" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="szuletesi&#xa;datum" vertex="1">
+          <mxGeometry height="60" width="120" x="820" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="gyakornokTelefon" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="telefonszam" vertex="1">
+          <mxGeometry height="45" width="120" x="955" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="vendegek" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" value="Vendegek" vertex="1">
+          <mxGeometry height="60" width="190" x="1110" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="vendeg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" value="Vendeg&#xa;0..n alkalommal" vertex="1">
+          <mxGeometry height="70" width="190" x="1110" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="vendegAzon" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="vendegazonosito" vertex="1">
+          <mxGeometry height="45" width="135" x="1040" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="vendegNev" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="nev" vertex="1">
+          <mxGeometry height="45" width="100" x="1190" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="eletkor" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="eletkor" vertex="1">
+          <mxGeometry height="45" width="105" x="1305" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="vendegCim" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="cim" vertex="1">
+          <mxGeometry height="45" width="90" x="1425" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="iranyitoszam" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="iranyitoszam" vertex="1">
+          <mxGeometry height="45" width="125" x="1050" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="vendegUtca" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="utca" vertex="1">
+          <mxGeometry height="45" width="100" x="1190" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="vendegHazszam" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" value="hazszam" vertex="1">
+          <mxGeometry height="45" width="105" x="1305" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="vendeglatas" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#6c8ebf;endArrow=none" target="etteremek">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="etteremek" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#82b366;endArrow=none" target="etterem">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="etterem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="etteremNev">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="etterem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="varos">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="etterem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="utca">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="etterem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="hazszam">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="etterem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="cim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="etterem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="ferohely">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="etterem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="csillag">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="etterem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="sef">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11" edge="1" parent="1" source="etterem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="etlap">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e12" edge="1" parent="1" source="etterem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#82b366;endArrow=none" target="konyhak">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e13" edge="1" parent="1" source="konyhak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#82b366;endArrow=none" target="konyha">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e14" edge="1" parent="1" source="konyha" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="konyhaKod">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e15" edge="1" parent="1" source="konyha" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="konyhaNev">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e16" edge="1" parent="1" source="konyha" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="elerhetoseg">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e17" edge="1" parent="1" source="konyha" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="konyhaTelefon">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e18" edge="1" parent="1" source="etterem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#82b366;endArrow=none" target="szakacsok">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e19" edge="1" parent="1" source="szakacsok" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#82b366;endArrow=none" target="szakacs">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e20" edge="1" parent="1" source="szakacs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="szakacsAzon">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e21" edge="1" parent="1" source="szakacs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="szakacsNev">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e22" edge="1" parent="1" source="szakacs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="fizetes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e23" edge="1" parent="1" source="szakacs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#82b366;endArrow=none" target="gyakornokok">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e24" edge="1" parent="1" source="gyakornokok" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#82b366;endArrow=none" target="gyakornok">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e25" edge="1" parent="1" source="gyakornok" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="gyakornokAzon">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e26" edge="1" parent="1" source="gyakornok" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="gyakornokNev">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e27" edge="1" parent="1" source="gyakornok" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="gyakorlat">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e28" edge="1" parent="1" source="gyakornok" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="iskola">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e29" edge="1" parent="1" source="gyakornok" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="szuletes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e30" edge="1" parent="1" source="gyakornok" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="gyakornokTelefon">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e31" edge="1" parent="1" source="etterem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#82b366;endArrow=none" target="vendegek">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e32" edge="1" parent="1" source="vendegek" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#82b366;endArrow=none" target="vendeg">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e33" edge="1" parent="1" source="vendeg" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="vendegAzon">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e34" edge="1" parent="1" source="vendeg" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="vendegNev">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e35" edge="1" parent="1" source="vendeg" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="eletkor">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e36" edge="1" parent="1" source="vendeg" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="vendegCim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e37" edge="1" parent="1" source="vendeg" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="iranyitoszam">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e38" edge="1" parent="1" source="vendeg" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="vendegUtca">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e39" edge="1" parent="1" source="vendeg" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;strokeColor=#d79b00;endArrow=none" target="vendegHazszam">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="note" parent="1" style="shape=note;whiteSpace=wrap;html=1;size=20;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12" value="Jelmagyarázat:&#xa;kék = gyökérelem&#xa;zöld = ismétlődő/tároló elem&#xa;narancssárga = összetett adatcsoport&#xa;sárga ovális = egyszerű adatelem&#xa;&#xa;A fájl neve: XDMNeptunkod_Vendeglatas.drawio" vertex="1">
+          <mxGeometry height="190" width="230" x="1320" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

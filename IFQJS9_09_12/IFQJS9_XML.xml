@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vendeglatas>
+    <Ettermek>
+        <Etterem>
+            <nev>Aranyvillam Étterem</nev>
+            <varos>Miskolc</varos>
+            <utca>Egyetem út</utca>
+            <hazszam>15</hazszam>
+            <cim>3515 Miskolc, Egyetem út 15.</cim>
+            <ferohely>120</ferohely>
+            <csillag>4</csillag>
+            <sef>Kovács Gábor</sef>
+            <etlap>Magyaros és nemzetközi ételek</etlap>
+
+            <Konyhak>
+                <Konyha>
+                    <kod>K001</kod>
+                    <nev>Főkonyha</nev>
+                    <elektronikus_elerhetoseg>fokonyha@aranyvillam.hu</elektronikus_elerhetoseg>
+                    <telefonszam>+36 46 555 101</telefonszam>
+                </Konyha>
+
+                <Konyha>
+                    <kod>K002</kod>
+                    <nev>Hidegkonyha</nev>
+                    <elektronikus_elerhetoseg>hidegkonyha@aranyvillam.hu</elektronikus_elerhetoseg>
+                    <telefonszam>+36 46 555 102</telefonszam>
+                </Konyha>
+            </Konyhak>
+
+            <Szakacsok>
+                <Szakacs>
+                    <szakacsazonosito>SZ001</szakacsazonosito>
+                    <nev>Nagy Péter</nev>
+                    <fizetes>560000</fizetes>
+
+                    <Gyakornokok>
+                        <Gyakornok>
+                            <gyakornokazonosito>GY001</gyakornokazonosito>
+                            <nev>Szabó Anna</nev>
+                            <gyakorlat>Melegkonyhai előkészítés</gyakorlat>
+                            <iskola>Miskolci Szakképzési Centrum</iskola>
+                            <szuletesi_datum>2005-04-18</szuletesi_datum>
+                            <telefonszam>+36 30 123 4567</telefonszam>
+                        </Gyakornok>
+                    </Gyakornokok>
+                </Szakacs>
+
+                <Szakacs>
+                    <szakacsazonosito>SZ002</szakacsazonosito>
+                    <nev>Tóth Eszter</nev>
+                    <fizetes>535000</fizetes>
+
+                    <Gyakornokok>
+                        <Gyakornok>
+                            <gyakornokazonosito>GY002</gyakornokazonosito>
+                            <nev>Kiss Bence</nev>
+                            <gyakorlat>Hidegtálak készítése</gyakorlat>
+                            <iskola>Andrássy Gyula Technikum</iskola>
+                            <szuletesi_datum>2006-09-10</szuletesi_datum>
+                            <telefonszam>+36 70 987 6543</telefonszam>
+                        </Gyakornok>
+                    </Gyakornokok>
+                </Szakacs>
+            </Szakacsok>
+
+            <Vendegek>
+                <Vendeg>
+                    <vendegazonosito>V001</vendegazonosito>
+                    <nev>Farkas Tamás</nev>
+                    <eletkor>32</eletkor>
+                    <cim>
+                        <iranyitoszam>3525</iranyitoszam>
+                        <utca>Győri kapu</utca>
+                        <hazszam>24</hazszam>
+                    </cim>
+                </Vendeg>
+
+                <Vendeg>
+                    <vendegazonosito>V002</vendegazonosito>
+                    <nev>Molnár Réka</nev>
+                    <eletkor>27</eletkor>
+                    <cim>
+                        <iranyitoszam>3530</iranyitoszam>
+                        <utca>Széchenyi utca</utca>
+                        <hazszam>48</hazszam>
+                    </cim>
+                </Vendeg>
+            </Vendegek>
+        </Etterem>
+    </Ettermek>
+</Vendeglatas>

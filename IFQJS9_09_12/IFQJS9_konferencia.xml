@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<konferencia>
+    <cim>Informatikai és Mesterséges Intelligencia Konferencia 2026</cim>
+
+    <előadó>
+        <név>Dr. Kovács Péter</név>
+        <lakcím>3525 Miskolc, Egyetemváros 12.</lakcím>
+        <adószám>12345678-1-05</adószám>
+    </előadó>
+
+    <dátum>2026-11-20</dátum>
+
+    <hallgatók>
+        <hallgató>
+            <név>Nagy Anna</név>
+            <lakcím>3060 Pásztó, Fő út 15.</lakcím>
+        </hallgató>
+
+        <hallgató>
+            <név>Kiss Gábor</név>
+            <lakcím>3525 Miskolc, Egyetem út 8.</lakcím>
+        </hallgató>
+
+        <hallgató>
+            <név>Szabó Zoltán</név>
+            <lakcím>3300 Eger, Dobó tér 4.</lakcím>
+        </hallgató>
+    </hallgatók>
+
+    <helyszín>
+        <név>Miskolci Egyetem, Informatikai Intézet</név>
+        <lakcím>3515 Miskolc-Egyetemváros</lakcím>
+    </helyszín>
+</konferencia>
